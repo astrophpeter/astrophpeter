@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm a Research Scientist at Lawrence Livermore National Laboratory working in Astrononmy and Space Science.
+I'm a Research Scientist at the Lawrence Livermore National Laboratory [Space Science Institute](https://space-science.llnl.gov/).
 
 <!--
 **astrophpeter/astrophpeter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
